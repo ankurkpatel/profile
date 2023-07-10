@@ -1,9 +1,9 @@
 
 {
-  "homepage": "http://ankurkpatel.github.io/my-profile",
+  "homepage": "http://ankurkpatel.github.io",
   "name": "my-profile",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
