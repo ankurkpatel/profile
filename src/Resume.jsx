@@ -1,11 +1,11 @@
 import "./Resume.css";
 export const Resume = () => {
-  return (
+  return(
     <div className="c8 doc-content">
       <p className="c25">
         <span className="c15 c9 c12">Ankur Patel </span>
         <span className="c7">
-          | ankurpatel7@outlook.com | +1-519-702-5907 | Toronto, ON |
+          | ankurpatel7@outlook.com | Toronto, ON |
           Linkedin.com/in/ankurpatel7
         </span>
       </p>
@@ -30,28 +30,30 @@ export const Resume = () => {
         <span className="c7">Experience</span>
       </p>
       <p className="c14 c29">
-        <span className="c6 c9">Consultant(AI Data Products)</span>
-        <span className="c1 c16">&nbsp;</span>
-        <span className="c10 c9">| </span>
+        <span className="c6 c9">Consultant AI</span>
+        <span className="c1 c16"> | </span>
+     
         <span className="c10 c9 c12">
-          Sionic - A Davies Company Toronto, Canada
+          Davies Consulting (Sionic) -  Toronto, Canada |
         </span>
-        <span className="c10 c9">| </span>
         <span className="c17 c10 c9 c12">Feb 2023 &ndash; Present</span>
       </p>
       <p className="c5">
-        <span className="c1">Regulatory Intelligence Q&amp;A Bot</span>
+        <span className="c1">Regulatory AI Copilot</span>
         <span className="c10 c9 c16">
-          : Spearheaded efforts to build Q&amp;A chat bot using GPT 3.5 and
-          Langchain with only one analyst. Improved operational efficiency
-          building a web app, improved user satisfaction 70%.
+          : Led efforts to build AI copilot using large language models to answer any questions around regulatory compliance, improving the efficiency and accuracy of research.
+        </span>
+      </p>
+      <p className="c5">
+        <span className="c1">Data Curation</span>
+        <span className="c10 c9 c16">
+          : Collaborated with subject matter experts to curate and enhance the knowledge base of regulatory information, ensuring that the AI models had access to the most up-to-date and accurate data.
         </span>
       </p>
       <p className="c5">
         <span className="c1">User Stories Alignment</span>
         <span className="c10 c9 c16">
-          : Led cross-functional user stories and requirement gathering
-          sessions, achieving 100% stakeholder alignment, leading to a 20% reduction in
+          : Led cross-functional user stories and requirement gathering, achieving 100% stakeholder alignment, leading to a 20% reduction in
           rework.
         </span>
       </p>
@@ -59,7 +61,7 @@ export const Resume = () => {
         <span className="c1">Google Analytics Implementation</span>
         <span className="c0">
           : Implemented Google Analytics for data-driven decision-making, boosting user engagement by 25%, resulting in a 10% increase in tool
-          adoption and usage.
+          adoption.
         </span>
       </p>
       <p className="c19">
